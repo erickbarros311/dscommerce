@@ -2,7 +2,7 @@
 
 > Projeto desenvolvido durante o curso **Java Spring Professional** da **DevSuperior**.
 
-![Status](https://img.shields.io/badge/status-em%20sucess-blue)
+![Status](https://img.shields.io/badge/status-Module%20Sucess-blue)
 ![Java](https://img.shields.io/badge/Java-21-red)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
 
